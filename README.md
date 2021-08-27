@@ -1,3 +1,3 @@
 # View
 
-Open the `index.html` with a browser.
+Open the `index.htm` with a browser.
